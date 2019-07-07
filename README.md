@@ -1,2 +1,2 @@
 # identify-customer-segments
-part of Udacity Data cience
+part of Udacity Data Science
